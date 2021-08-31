@@ -4,4 +4,4 @@ Hi, my name is Stephanie Rotter. Currently, I am a PhD candidate in the [CRC1412
 
 Having a background in Cognitive Science and Psycholinguistics, I combine theories from theoretical linguitics with approaches of psycholinguistics and sociolinguistics. 
 
-[Conferences](stephanierotter.github.io/conferences_talkes)
+[Conferences](stephanierotter.github.io/talks_conferences)
