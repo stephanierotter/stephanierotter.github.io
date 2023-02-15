@@ -5,6 +5,8 @@
 
 **Stephanie Rotter** and Mingya Liu. (2022). *Register sensitivity of negative concord in American and British English*. 55th Annual Meeting of the Societas Linguistica Europaea (SLE 2022). Bucharest, Romania.
 
+**Stephanie Rotter** and Mingya Liu. (2022). *Register-sensitivity of quantifier use: no vs. any in English*. CARLA 2022 - Special session on register. Berlin, Germany
+
 Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple modals and register effects in American and British English*. Workshop on "Variation, contact, and modal constructions in English, University of Paris, France.
 
 Mingya Liu, **Stephanie Rotter**, and Anastasia Giannakidou. (2022). *Bias and modality in conditionals*. 44. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaften, Commitments in grammar and discourse (COMMIT22). Tübingen, Germany.
