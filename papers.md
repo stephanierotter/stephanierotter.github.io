@@ -1,6 +1,6 @@
 ## Papers 
 
-**Stephanie Rotter** and Mingya Liu. (2023). *Interlocutor relation predicts the formality of the conversation: an experiment in American and British English*. REALIS: Register Aspects of Language in Situation. 2(2). https://doi.org/10.18452/26192
+**Stephanie Rotter** and Mingya Liu. (2023). *Interlocutor relation predicts the formality of the conversation: an experiment in American and British English*. REALIS: Register Aspects of Language in Situation. 2(2). [10.18452/26192](https://doi.org/10.18452/26192)/)
 
 Mingya Liu and **Stephanie Rotter**. (2023). *Modal concord in American and British English: A register-based experimental study*. Proceedings of the 58th annual meeting of the Chicago Linguistic Society (CLS58), University of Chicago.
 
