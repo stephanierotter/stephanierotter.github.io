@@ -4,9 +4,9 @@
 
 ### Accepted 2023
 
-**Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG 18-19.09.2023. Saarbrücken Germany
+**Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18-19.09.2023. Saarbrücken Germany
 
-**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English* xpragx 20-22.09.2023. Paris, France
+**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. xpragx, 20-22.09.2023. Paris, France
 
 
 ### 2022
