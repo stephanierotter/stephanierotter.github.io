@@ -1,5 +1,5 @@
 
-## Workshop \& Conference Talks
+## Workshop & Conference Talks
 
 
 ### Accepted 2023
