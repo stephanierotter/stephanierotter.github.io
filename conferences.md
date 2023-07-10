@@ -8,6 +8,9 @@
 
 **Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. xpragx, 20-22.09.2023. Paris, France
 
+### 2023
+
+**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. Language in Social Interaction, 07.07.2023. Wuppertal, Germany.
 
 ### 2022
 
