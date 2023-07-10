@@ -14,7 +14,7 @@ Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings o
 
 ### 2023
 
-**Stephanie Rotter** and Mingya Liu. (2023). *Social meaning of negative concord and modal concord in American English*. Language in Social Interaction, 07.07.2023. Wuppertal, Germany.
+**Stephanie Rotter** and Mingya Liu. (2023). *Social meaning of negative concord in American English*. Language in Social Interaction, 07.07.2023. Wuppertal, Germany.
 
 ### 2022
 
