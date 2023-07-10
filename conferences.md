@@ -4,13 +4,17 @@
 
 ### Accepted 2023
 
+**Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, Donostia–San Sebastián, Spain.
+
+Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings of modal concord in English*. AmLaP 2023, Donostia–San Sebastián, Spain.
+
 **Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18-19.09.2023. Saarbrücken Germany
 
 **Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. xpragx, 20-22.09.2023. Paris, France
 
 ### 2023
 
-**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. Language in Social Interaction, 07.07.2023. Wuppertal, Germany.
+**Stephanie Rotter** and Mingya Liu. (2023). *Social meaning of negative concord and modal concord in American English*. Language in Social Interaction, 07.07.2023. Wuppertal, Germany.
 
 ### 2022
 
