@@ -4,6 +4,8 @@
 
 ### Accepted 2023
 
+**Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. CARLA 2023, Montréal (QC), Canada.
+
 **Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, Donostia–San Sebastián, Spain.
 
 Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings of modal concord in English*. AmLaP 2023, Donostia–San Sebastián, Spain.
