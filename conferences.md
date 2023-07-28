@@ -14,7 +14,7 @@
 
 ### 2022
 
-**Stephanie Rotter** and Mingya Liu. (2022). *Register sensitivity of negative concord in American and British English*. 55th Annual Meeting of the Societas Linguistica Europaea - SLE 2022, 24.-27.08.2022. Bucharest, Romania.
+**Stephanie Rotter** and Mingya Liu. (2022). *Register sensitivity of negative concord in American and British English*. 55th Annual Meeting of the Societas Linguistica Europaea - SLE 2022, 24.-27.08.2022. University of Bucharest, Bucharest, Romania.
 
 **Stephanie Rotter** and Mingya Liu. (2022). *Register-sensitivity of quantifier use: no vs. any in English*. CARLA 2022 - Special session on register, 22.-24.08.2022. Humboldt Universität zu Berlin, Germany
 
@@ -32,9 +32,9 @@ Mingya Liu, **Stephanie Rotter**, and Anastasia Giannakidou. (2022). *Bias and m
 
 ### Accepted 2023
 
-**Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, 31.08-02.09.2023. Donostia–San Sebastián, Spain.
+**Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, 31.08-02.09.2023. Basque center on Cognition, Brain and Language, Donostia–San Sebastián, Spain.
 
-Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings of modal concord in English*. AmLaP 2023, 31.08-02.09.2023. Donostia–San Sebastián, Spain.
+Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings of modal concord in English*. AmLaP 2023, 31.08-02.09.2023. Basque center on Cognition, Brain and Language, Donostia–San Sebastián, Spain.
 
 **Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. XPragx, 20-22.09.2023. Université Paris Cité, Paris, France
 
