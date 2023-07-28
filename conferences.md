@@ -14,11 +14,11 @@
 
 ### 2022
 
-**Stephanie Rotter** and Mingya Liu. (2022). *Register sensitivity of negative concord in American and British English*. 55th Annual Meeting of the Societas Linguistica Europaea (SLE 2022). Bucharest, Romania.
+**Stephanie Rotter** and Mingya Liu. (2022). *Register sensitivity of negative concord in American and British English*. 55th Annual Meeting of the Societas Linguistica Europaea - SLE 2022, 24.-27.08.2022. Bucharest, Romania.
 
-**Stephanie Rotter** and Mingya Liu. (2022). *Register-sensitivity of quantifier use: no vs. any in English*. CARLA 2022 - Special session on register. Berlin, Germany
+**Stephanie Rotter** and Mingya Liu. (2022). *Register-sensitivity of quantifier use: no vs. any in English*. CARLA 2022 - Special session on register, 22.-24.08.2022. Humboldt Universität zu Berlin, Germany
 
-**Stephanie Rotter** and Mingya Liu. (2022). Register Sensitivity of Negative Concord and NPIs in Varieties of English. Linguistic SFB Meetup. Humboldt Universität zu Berlin, Germany
+**Stephanie Rotter** and Mingya Liu. (2022). Register Sensitivity of Negative Concord and NPIs in Varieties of English. Linguistic SFB Meetup, 04.-05.07.2022. Humboldt Universität zu Berlin, Germany
 
 Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple modals and register effects in American and British English*. Workshop on "Variation, contact, and modal constructions in English", 08.07.2022. Université Paris Cité, Paris, France.
 
