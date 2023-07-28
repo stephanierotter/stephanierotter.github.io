@@ -53,18 +53,18 @@ Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple 
 
 ### 2023 
 
-**Stephanie Rotter** (2023). *The social meaning of doubling phenomena in American English*. EEL Colloquium, HU Berlin, Germany
+**Stephanie Rotter** (2023). *The social meaning of doubling phenomena in American English*. EEL Colloquium, 02.05.2023. HU Berlin, Germany
 
 
 ### 2022
 
-**Stephanie Rotter** and Mingya Liu. (2021). *Register sensitivity of negation, polarity, and modality in American and British English*. CRC Colloquium,  HU Berlin, Germany
+**Stephanie Rotter** and Mingya Liu. (2021). *Register sensitivity of negation, polarity, and modality in American and British English*. CRC Colloquium, 21.03.2022. HU Berlin, Germany
 
 
 
 ### 2021 
 
-**Stephanie Rotter** and Mingya Liu. (2021). *Pragmatic Functions and Effects of Register Variation and Switch: a register approach to negation and polarity*. CRC Retreat 2021. HU Berlin, Germany
+**Stephanie Rotter** and Mingya Liu. (2021). *Pragmatic Functions and Effects of Register Variation and Switch: a register approach to negation and polarity*. CRC Retreat 2021, 09.11.2021. HU Berlin, Germany
 
-**Stephanie Rotter**. (2021). *Pragmatic Functions and Effects of Register Variation and Switch: a Register approach to negation and polarity*. EEL Colloquium, HU Berlin, Germany
+**Stephanie Rotter**. (2021). *Pragmatic Functions and Effects of Register Variation and Switch: a Register approach to negation and polarity*. EEL Colloquium, 28.10.2021. HU Berlin, Germany
 
