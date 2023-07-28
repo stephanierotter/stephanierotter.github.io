@@ -30,7 +30,7 @@ Mingya Liu, **Stephanie Rotter**, and Anastasia Giannakidou. (2022). *Bias and m
 
 ## Poster Presentatons & Short Talks
 
-### 2023
+### Accepted 2023
 
 **Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, 31.08-02.09.2023. Donostia–San Sebastián, Spain.
 
