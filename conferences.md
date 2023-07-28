@@ -6,7 +6,7 @@
 
 **Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. CARLA 2023, 23.-25.08.2023. Montréal (QC), Canada.
 
-**Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18-19.09.2023. Universität des Saarlandes, Saarbrücken Germany
+**Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18.-19.09.2023. Universität des Saarlandes, Saarbrücken Germany
 
 ### 2023
 
