@@ -1,14 +1,15 @@
 
 ## Workshop & Conference Talks
 
-
 ### Accepted 2023
 
-**Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. CARLA 2023, 23.-25.08.2023. Montréal (QC), Canada.
-
-**Stephanie Rotter** and Mingya Liu. *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18.-19.09.2023. Universität des Saarlandes, Saarbrücken Germany
+**Stephanie Rotter** and Mingya Liu. *Social meanings of doubling phenomena in American English*. Social Meaning 2023, 23.-25.08.2023. Berlin, Germany.
 
 ### 2023
+
+**Stephanie Rotter** and Mingya Liu. (2023). *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18.-19.09.2023. Universität des Saarlandes, Saarbrücken Germany
+
+**Stephanie Rotter** and Mingya Liu. (2023). *An experimental study on social meanings of negative concord in English*. CARLA 2023, 23.-25.08.2023. Montréal (QC), Canada.
 
 **Stephanie Rotter** and Mingya Liu. (2023). *Social meaning of negative concord in American English*. Language in Social Interaction, 07.07.2023. Bergische Universität Wuppertal, Wuppertal, Germany.
 
@@ -28,18 +29,17 @@ Mingya Liu, **Stephanie Rotter**, and Anastasia Giannakidou. (2022). *Bias and m
 
 
 
+
+
 ## Poster Presentatons & Short Talks
 
-### Accepted 2023
+### 2022
+
+**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. XPragx, 20-22.09.2023. Université Paris Cité, Paris, France
 
 **Stephanie Rotter** and Mingya Liu. *An experimental study on social meanings of negative concord in English*. AmLaP 2023, 31.08-02.09.2023. Basque center on Cognition, Brain and Language, Donostia–San Sebastián, Spain.
 
 Mingya Liu and **Stephanie Rotter**. *An experimental study on social meanings of modal concord in English*. AmLaP 2023, 31.08-02.09.2023. Basque center on Cognition, Brain and Language, Donostia–San Sebastián, Spain.
-
-**Stephanie Rotter** and Mingya Liu. *Social meaning of negative concord and modal concord in American English*. XPragx, 20-22.09.2023. Université Paris Cité, Paris, France
-
-
-### 2022
 
 Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple modals and their register sensitivity in English*. Chicago Linguistics Society 58 - CLS58 2022 (online), 22.-24.04.2022. University of Chicago, Chicago, USA.
 
@@ -47,8 +47,8 @@ Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple 
 
 Mingya Liu and **Stephanie Rotter**. (2022). *An experimental study of multiple modals and their register sensitivity in English*. 35th Annual Conference on Human Sentence Processing - HSP 2022 (online), 24.-26.03.2022. University of California, Santa Cruz, USA.
 
-
 ### 2021
+
 **Stephanie Rotter**, Isabell Wartenburger, and Mingya Liu. (2021). *A comparative experimental study on counterfactual conditionals: counterfactual thoughts, perspectives, and emotions*. Architectures and Mechanisms for Language Processing - AMLaP 2021 (online), 02.-04.09.2021. Université de Paris, Paris, France.
 
 
