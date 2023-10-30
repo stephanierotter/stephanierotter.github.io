@@ -1,6 +1,6 @@
 ## Papers 
 
- [comment]: <> (**Stephanie Rotter** and Mingya Liu. (accepted). *A register approach to negative concord vs. negative polarity items in English*. Linguistics.)
+ <!--**Stephanie Rotter** and Mingya Liu. (accepted). *A register approach to negative concord vs. negative polarity items in English*. Linguistics.-->
 
 **Stephanie Rotter** and Mingya Liu. (accepted). *Counterfactual language, emotion and perspective: a sentence-completion study during the Covid-19 pandemic*. Linguistic Vanguard. 
 
