@@ -1,11 +1,17 @@
 
 ## Workshop & Conference Talks
 
-### Accepted 2023
 
-**Stephanie Rotter** and Mingya Liu. *Social meanings of doubling phenomena in American English*. Social Meaning 2023, 23.-25.08.2023. Berlin, Germany.
 
 ### 2023
+
+**Stephanie Rotter** and Mingya Liu. (2023). *Social meanings of doubling phenomena in American English*. Social Meaning 2023, 23.-25.08.2023. ZAS/HU, Berlin, Germany.
+
+**Stephanie Rotter** and Mingya Liu. (2023). *Social meaning of negative concord and modal concord in American English*. Xpragx, 20.-22.09.2023. Paris, France.
+
+**Stephanie Rotter** and Mingya Liu. (2023). *An experimental study on social meanings of negative concord in English*. Architectures and Mechanisms for Language Processing - AmLaP 2023, 31.08.-02.09.2023. Donostia–San Sebastián, Spain.
+
+Mingya Liu and **Stephanie Rotter**. (2023). *An experimental study on social meanings of modal concord in English*. Architectures and Mechanisms for Language Processing - AmLaP 2023, 31.08.-02.09.2023. Donostia–San Sebastián, Spain.
 
 **Stephanie Rotter** and Mingya Liu. (2023). *Individual differences in the perception of negative concord in American English*. IndiPRAG, 18.-19.09.2023. Universität des Saarlandes, Saarbrücken Germany
 
