@@ -4,7 +4,7 @@
 
 **Stephanie Rotter** and Mingya Liu. (2024). *Counterfactual language, emotion and perspective: a sentence-completion study during the Covid-19 pandemic*. Linguistic Vanguard. [10.1515/lingvan-2022-0139](https://doi.org/10.1515/lingvan-2022-0139).
 
-Mingya Liu and **Stephanie Rotter**. (2023). *Modal concord in American and British English: A register-based experimental study*. Proceedings of the 58th annual meeting of the Chicago Linguistic Society (CLS58), University of Chicago. pp.277--288. [Link to the paper](https://drive.google.com/drive/folders/1o09xbZ2fsvXmxTDe0P84hPlcoopvrzKd). 
+Mingya Liu and **Stephanie Rotter**. (2023). *Modal concord in American and British English: A register-based experimental study*. Proceedings of the 58th annual meeting of the Chicago Linguistic Society (CLS58), University of Chicago. pp.277-288. [Link to the paper](https://drive.google.com/file/d/17MWXLrz72w1COP-AIoTrAlYpLiVv9QAm/view?usp=drive_link).
 
 
 
