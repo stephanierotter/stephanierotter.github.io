@@ -1,5 +1,8 @@
 ## Papers 
 
+**Stephanie Rotter** and Mingya Liu.  (2025). "Less formal and more rebellious — An experiment on the social meaning of negative concord in American English". Negative Concord: A Hundred Years On, edited by Johan van der Auwera and Chiara Gianollo, Berlin, Boston: De Gruyter Mouton, pp.303-332. [10.1515/9783111202273-012](https://doi.org/10.1515/9783111202273-012). [Link to the paper](https://www.degruyter.com/document/doi/10.1515/9783111202273-012/html).
+
+
  **Stephanie Rotter** and Mingya Liu. (2024). *A register approach to negative concord vs. negative polarity items in English*. Linguistics. [10.1515/ling-2023-0016](https://doi.org/10.1515/ling-2023-0016). [Link to the paper](https://doi.org/10.1515/ling-2023-0016).
 
 **Stephanie Rotter** and Mingya Liu. (2024). *Counterfactual language, emotion and perspective: a sentence-completion study during the Covid-19 pandemic*. Linguistic Vanguard. [10.1515/lingvan-2022-0139](https://doi.org/10.1515/lingvan-2022-0139). [Link to the paper](https://doi.org/10.1515/lingvan-2022-0139).
