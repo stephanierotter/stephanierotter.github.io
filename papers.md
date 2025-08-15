@@ -1,6 +1,6 @@
 ## Papers 
 
-Mingya Liu and **Stephanie Rotter**.  (2025). *Linguistic and Social Meaning Match: An experiment on modal concord in English*. Experiments in Linguistic Meaning. [10.3765/elm.3.5817](https://doi.org/10.3765/elm.3.5817). [Link to the paper](https://doi.org/10.3765/elm.3.5817).  <a href="https://doi.org/10.3765/elm.3.5817" target="_blank">Click here</a>
+Mingya Liu and **Stephanie Rotter**.  (2025). *Linguistic and Social Meaning Match: An experiment on modal concord in English*. Experiments in Linguistic Meaning. [10.3765/elm.3.5817](https://doi.org/10.3765/elm.3.5817). [Link to the paper](https://doi.org/10.3765/elm.3.5817).  <a href="https://doi.org/10.3765/elm.3.5817" target="_blank" rel="noopener noreferrer">Click here</a>
 
  **Stephanie Rotter** and Mingya Liu. (2025). *A register approach to modal (non-)concord in English: an experimental study of linguistic and social meaning*. English Language & Linguistics. [10.1017/S1360674325100361](https://doi.org/10.1017/S1360674325100361). [Link to the paper](https://doi.org/10.1017/S1360674325100361). 
 
